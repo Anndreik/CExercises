@@ -12,6 +12,6 @@ int main(){
     printf("Enter second value:\n");
     scanf("%d", &b);
     swap(int, a, b);
-    printf("first value = %d and second value = %d\n", a, b);
+    printf("first value is %d and second value is %d\n", a, b);
     return 0;
 }
